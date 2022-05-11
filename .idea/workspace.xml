@@ -1,17 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="" />
+    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="création des classes constructeurs">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Ressources/CentreVille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Unités/Caserne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Unités/Ferme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Unités/Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Batiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Ressources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Territoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors/Unité.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/Atelier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/Caserne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/CentreVille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/Ferme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/Port.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Batiments/temple.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1652298785" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1652298784" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29218QL901UpbO6N2GQnRf8uBsb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +80,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -31,7 +92,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652296212035</updated>
+      <workItem from="1652296215041" duration="4487000" />
     </task>
+    <task id="LOCAL-00001" summary="création des clsasses constructeurs">
+      <created>1652298629250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652298629250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="création des classes constructeurs">
+      <created>1652298751532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652298751532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="création des classes constructeurs">
+      <created>1652298850040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652298850040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="création des clsasses constructeurs" />
+    <MESSAGE value="création des classes constructeurs" />
+    <option name="LAST_COMMIT_MESSAGE" value="création des classes constructeurs" />
   </component>
 </project>
