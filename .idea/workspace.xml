@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="" />
+    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Batiments/PortMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/Caserne/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/Caserne/Lancier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/Allosaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/Brachiosaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/TRexTitan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/MoyenneFerme/Ankylosaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/MoyenneFerme/Stegosaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/PetiteFerme/CentreVilleMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/PetiteFerme/Dilophosaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Batiments/Ressources/CentreVille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Batiments/Unités/Dojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Unités/Ouvrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29218QL901UpbO6N2GQnRf8uBsb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
