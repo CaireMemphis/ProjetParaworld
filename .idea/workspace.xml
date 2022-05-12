@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Batiments/PortMobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/Caserne/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/Caserne/Lancier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/Allosaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/Brachiosaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/GrandeFerme/TRexTitan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/MoyenneFerme/Ankylosaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/MoyenneFerme/Stegosaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/PetiteFerme/CentreVilleMobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/Unités/PetiteFerme/Dilophosaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Batiments/Ressources/CentreVille.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Batiments/Unités/Dojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/Unités/Ouvrier.java" afterDir="false" />
+    <list default="true" id="78d4bbf2-8b4d-4ef3-82e6-017fd60cc69f" name="Changes" comment="Creation des differents éléments de clans">
+      <change afterPath="$PROJECT_DIR$/src/Clans/Cavaliers/MainCavalier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/Dragons/MainDragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clans/HommeNord/MainHommeNord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Ressources/CentreVille.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clans/HommeNord/Batiments/Ressources/CentreVille.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructors/Batiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors/Batiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +40,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProjetParaworld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +63,29 @@
       <option name="presentableId" value="Default" />
       <updated>1652296212035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creation des differents éléments de clans">
+      <created>1652343911307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652343911307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation des differents éléments de clans" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation des differents éléments de clans" />
   </component>
 </project>

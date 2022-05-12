@@ -9,7 +9,7 @@ public class Batiment {
     private int space;
 
 
-    public Batiment(int hitPoint, int healthPoint, int needSkull, int needMeat, int needWood, int needStone, int territory) {
+    public Batiment(int hitPoint, int healthPoint, int needSkull, int needMeat, int needWood, int needStone) {
 
         this.healthPoint = healthPoint;
         this.needSkull = needSkull;
